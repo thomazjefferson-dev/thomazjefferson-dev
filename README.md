@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 
-**thomazjefferson-dev/thomazjefferson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Thomaz, estudante Engenheiro de software com foco em desenvolvimento web front end, apaixonado por tecnologia, com as matérias de "Lógica de Programação" e "Linguagem de Programação em JavaScript".
+
+Apresentado ao mundo da programação, migrei para ADS em busca de conhecimento específico na área de desenvolvimento de sistemas. Consequentemente, conheci o DevQuest - Dev em Dobro curso de Desenvolvimento Web Full Stack, que além das aulas teóricas e práticas, nos propõe a realizar desafios técnicos para crescimento profissional.
+
+Atualmente trabalho como Porteiro para empresa AllForServices Terceirização, e estudo com o objetivo de assumir uma posição dentro de uma empresa inovadora que possa aplicar, enquanto estudo, meus conhecimentos em JavaScript, HTML, CSS e versionamento, para criação de sites responsivos, manutenção e soluções de qualidade para melhor experiência do usuário final.
+
+Encontro-me a inteira disposição para contato. Atenciosamente.
 
 
 <div align="center">
