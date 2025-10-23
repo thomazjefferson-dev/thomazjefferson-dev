@@ -1,5 +1,7 @@
 ## Olá 👋
 
+Meu nome é Thomaz Jefferson, estudante de Engenharia de Software com foco em desenvolvimento web front end.
+
 - Apaixonado por tecnologia, videogames e animes, iniciei meus estudos em programação para transformar esse interesse em carreira.
 
 - Atualmente, curso Desenvolvimento Web Full-Stack no DevQuest, enfrentando desafios com determinação e foco, sempre buscando evolução técnica.
