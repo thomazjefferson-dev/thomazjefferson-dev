@@ -13,7 +13,7 @@ Encontro-me a inteira disposição para contato. Atenciosamente.
 </div>
 </br>
 <div>
-  <div>
+  <div align="center">
   <a href="https://github.com/thomazjefferson-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazjefferson-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
