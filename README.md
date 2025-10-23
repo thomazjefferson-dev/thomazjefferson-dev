@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="github.com/thomazjefferson-dev/thomazjefferson-dev/thomazjeffersondev/main/snake.svg" />
+<img src="https://raw.githubusercontent.com/thomazjefferson-dev/thomazjefferson-dev/main/snake.svg" />
 
 ###
