@@ -1,9 +1,7 @@
 ## Olá 👋
 
 
-Meu nome é Thomaz Jefferson, estudante Engenheiro de software com foco em desenvolvimento web front end, apaixonado por tecnologia, com as matérias de "Lógica de Programação" e "Linguagem de Programação em JavaScript".
- 
-Atualmente trabalho como Porteiro para empresa AllForServices Terceirização, e estudo com o objetivo de assumir uma posição dentro de uma empresa inovadora que possa aplicar, enquanto estudo, meus conhecimentos em JavaScript, HTML, CSS e versionamento, para criação de sites responsivos, manutenção e soluções de qualidade para melhor experiência do usuário final.
+Meu nome é Thomaz Jefferson, estudante Engenheiro de software com foco em desenvolvimento web front end, apaixonado por tecnologia, com as matérias de "Lógica de Programação" e "Linguagem de Programação em JavaScript, HTML, CSS e versionamento, para criação de sites responsivos, manutenção e soluções de qualidade para melhor experiência do usuário final.
 
 Encontro-me a inteira disposição para contato. Atenciosamente.
 
