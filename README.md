@@ -23,7 +23,7 @@ Encontro-me a inteira disposição para contato. Atenciosamente.
 </div>
 </div>
 </br>
- <div>
+ <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="thomazjefferson-dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thomazjefferson-dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
