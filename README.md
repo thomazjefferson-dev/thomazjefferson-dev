@@ -55,3 +55,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/thomazjefferson-dev/thomazjefferson-dev/main/snake.svg" />
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thomazjeffersondev/thomazjeffersondev/main/snake.svg" />
