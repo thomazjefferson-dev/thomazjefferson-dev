@@ -60,13 +60,14 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-###
+<p align="center">
+  <!-- Cole aqui o conteúdo (todo) do output/snake.svg -->
+  <!-- Exemplo ilustrativo: -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="300" height="300">
+    <!-- ... conteúdo do seu snake.svg ... -->
+  </svg>
+</p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thomazjefferson-dev/thomazjefferson-dev/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
