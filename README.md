@@ -53,7 +53,7 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
 </div>
 </div>
 </br>
- <div align="left">
+ <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="thomazjefferson-dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thomazjefferson-dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -63,11 +63,19 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
  </div>
 </br>
 
- <div align="left">
+ <div align="center">
   <a href="[https://www.instagram.com/thomazjefferson-dev](https://www.instagram.com/thomazjefferson.agente_de_ia)](https://www.instagram.com/thomazjefferson.agente_de_ia)](https://www.linkedin.com/in/thomaz-jefferson-marins/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marinscabralster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
