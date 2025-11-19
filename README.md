@@ -19,7 +19,6 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
 ###
 
 <p align="left">
-✨ Criando bugs desde 2016 (mas sempre corrigindo também 😄)<br>
 📚 Atualmente estudando: Next.js, TypeScript e boas práticas de arquitetura Front-End<br>
 🎯 Objetivos: Me tornar um desenvolvedor Front-End altamente especializado e construir projetos reais que impactem pessoas<br>
 🎲 Curiosidade: Café + música fazem meu código render muito mais ☕🎧
