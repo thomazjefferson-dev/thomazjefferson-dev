@@ -63,9 +63,9 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//thomazjefferson-dev//thomazjefferson-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//thomazjefferson-dev//thomazjefferson-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com//thomazjefferson-dev//thomazjefferson-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//thomazjeffersondev//thomazjeffersondev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//thomazjeffersondev//thomazjeffersondev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com//thomazjeffersondev//thomazjeffersondev/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
