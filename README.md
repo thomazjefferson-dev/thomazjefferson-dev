@@ -70,6 +70,14 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thomazjeffersondev/thomazjeffersondev/main/snake.svg" />
+
+###
+
 
 
 
