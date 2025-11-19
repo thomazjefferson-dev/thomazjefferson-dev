@@ -1,10 +1,40 @@
-## Olá 👋
+<h1 align="left">Hey 👋 Tudo certo?</h1>
 
-Sempre preferi resolver problemas em vez de reclamar deles — essa curiosidade por tecnologia, que começou aos 16 anos de idade, me levou até o mundo da programação.
-Minha paixão por essa área desperta em mim o desejo constante de aprender mais, ir além e me desafiar todos os dias.
+###
 
-Atualmente, sou estudante de Engenharia de Software (5º período) e moro no Rio de Janeiro.
-Tenho grande interesse e foco no desenvolvimento Front-End, atuando com as seguintes tecnologias:
+<p align="left">
+Olá! Sempre preferi resolver problemas em vez de reclamar deles — essa curiosidade por tecnologia, que começou aos 16 anos, me levou ao mundo da programação.  
+Sou movido pela vontade de aprender, evoluir e me desafiar todos os dias.
+</p>
+
+<p align="left">
+Meu nome é <strong>Thomaz Jefferson</strong>, atualmente sou estudante de Engenharia de Software (5º período) e moro no Rio de Janeiro.  
+Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecnologias modernas do ecossistema web.
+</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">
+✨ Criando bugs desde 2016 (mas sempre corrigindo também 😄)<br>
+📚 Atualmente estudando: Next.js, TypeScript e boas práticas de arquitetura Front-End<br>
+🎯 Objetivos: Me tornar um desenvolvedor Front-End altamente especializado e construir projetos reais que impactem pessoas<br>
+🎲 Curiosidade: Café + música fazem meu código render muito mais ☕🎧
+</p>
+
+###
+
+<h2 align="left">Tecnologias que utilizo</h2>
+
+###
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,js,html,css,git,github,vite,nodejs" />
+</p>
+
 
 ###
 
