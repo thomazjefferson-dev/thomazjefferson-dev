@@ -64,7 +64,7 @@ Tenho grande foco e interesse em desenvolvimento Front-End, trabalhando com tecn
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thomazjefferson-dev/thomazjefferson-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
