@@ -1,14 +1,11 @@
 ## Olá 👋
 
-Meu nome é Thomaz Jefferson, estudante de Engenharia de Software (5º período) com foco em desenvolvimento web front-end.
+Sempre preferi resolver problemas em vez de reclamar deles — essa curiosidade por tecnologia, que começou aos 16 anos de idade, me levou até o mundo da programação.
+Minha paixão por essa área desperta em mim o desejo constante de aprender mais, ir além e me desafiar todos os dias.
 
-- Apaixonado por tecnologia, videogames e animes, iniciei meus estudos em programação para transformar esse interesse em uma carreira sólida e desafiadora.
-
-- Atualmente, me aprofundo em Next.js, TypeScript, React, Tailwind CSS, Shadcn/UI, Tailark, Vite, Axios, Firebase e Git/GitHub, buscando sempre evoluir tecnicamente e entregar resultados de alta qualidade.
-
-- Minha missão é criar interfaces modernas, intuitivas e acessíveis, que melhorem a experiência das pessoas e facilitem o seu dia a dia.
-
-- Moro no Rio de Janeiro e estou em busca de oportunidades para aplicar meu conhecimento em projetos desafiadores, colaborando com equipes inovadoras e compartilhando aprendizados ao longo do caminho.
+Atualmente, sou estudante de Engenharia de Software (5º período) e moro no Rio de Janeiro.
+Tenho grande interesse e foco no desenvolvimento Front-End, atuando com as seguintes tecnologias:
+Next.js | TypeScript | React | Tailwind CSS | Shadcn/UI | Tailark | Vite | Axios | Firebase | Git/GitHub
 
 <div>
 <h2> Seja, bem vindo!</h2>
